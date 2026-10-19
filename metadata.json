@@ -1,0 +1,6 @@
+{
+  "name": "Taka Tracker",
+  "description": "Smart personal finance and budget tracker for university students in Bangladesh. Track daily expenses, mess rent, tuition, recurring bills, bKash/Nagad transactions, and savings goals in Bangladeshi Taka (৳).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
